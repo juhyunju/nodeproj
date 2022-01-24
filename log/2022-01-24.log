@@ -1,0 +1,32 @@
+2022-01-24 14:10:40.436[info] app start
+2022-01-24 14:11:23.907[info] app start
+2022-01-24 14:11:26.966[error] This message is error
+2022-01-24 14:11:26.968[warn] This message is warn
+2022-01-24 14:11:26.969[info] This message is info
+2022-01-24 14:11:26.970[verbose] This message is verbose
+2022-01-24 14:11:26.971[debug] This message is debug
+2022-01-24 14:12:03.143[info] app start
+2022-01-24 14:13:50.580[info] app start
+2022-01-24 14:13:54.521[info] app start
+2022-01-24 14:15:01.094[info] app start
+2022-01-24 14:19:25.810[info] app start
+2022-01-24 14:19:55.586[info] app start
+2022-01-24 14:20:31.086[info] app start
+2022-01-24 14:21:07.106[info] app start
+2022-01-24 14:22:23.029[info] app start
+2022-01-24 14:22:37.875[info] app start
+2022-01-24 14:22:46.681[info] app start
+2022-01-24 14:23:06.912[info] app start
+2022-01-24 14:24:23.494[info] app start
+2022-01-24 14:26:08.807[info] app start
+2022-01-24 14:26:56.849[info] app start
+2022-01-24 16:08:11.585[info] app start
+2022-01-24 16:08:16.349[info] app start
+2022-01-24 16:21:16.036[info] app start
+2022-01-24 16:32:08.102[info] app start
+2022-01-24 16:37:16.536[info] app start
+2022-01-24 16:37:38.165[info] app start
+2022-01-24 16:53:23.857[info] app start
+2022-01-24 16:54:12.940[info] app start
+2022-01-24 16:54:13.498[info] DB connection success
+2022-01-24 16:54:13.592[info] Sequelize sync success
